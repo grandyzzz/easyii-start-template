@@ -17,6 +17,7 @@
 -Check the requirements.
 <br>
 -Fill simple form and complete installatmion.
+<br>
 <b>4.</b> For compiling SASS run the command line and use:
 <pre>gulp watch</pre>
     
