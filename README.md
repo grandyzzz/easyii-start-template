@@ -1,8 +1,8 @@
 <h1>INSTALLATION GUIDE</h1>
 <b>1.</b> After installing composer:
 <pre>php composer.phar global require "fxp/composer-asset-plugin:dev-master"</pre>
- <pre>php composer.phar create-project grandyzzz/easyii-start start dev-master</pre>
-<pre>composer update (if it's necessary)</pre>
+ <pre>git clone https://github.com/grandyzzz/easyii-start-template.git</pre>
+<pre>composer update</pre>
 <b>2.</b> After installing NodeJS:
 <pre>npm install --global gulp</pre>
 <pre>npm update</pre>
