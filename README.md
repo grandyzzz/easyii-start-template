@@ -1,4 +1,4 @@
-###INSTALLATION GUIDE###
+<h1>INSTALLATION GUIDE</h1>
 <b>1.</b> After installing composer:
 <pre>php composer.phar global require "fxp/composer-asset-plugin:dev-master"</pre>
  <pre>php composer.phar create-project grandyzzz/easyii-start start dev-master</pre>
